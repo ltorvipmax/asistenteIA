@@ -1,0 +1,97 @@
+[
+  {
+    "client_id": "client_001",
+    "name": "Ana Torres",
+    "objetivo": "comprar",
+    "tipo_propiedad": "departamento",
+    "ubicaciones_preferidas": [
+      "Miraflores",
+      "San Isidro",
+      "Barranco"
+    ],
+    "presupuesto_min": 145000,
+    "presupuesto_max": 220000,
+    "habitaciones_min": 2,
+    "financiacion": "credito hipotecario preaprobado",
+    "plazo_decision": "60 dias",
+    "preferences": {
+      "amenidades": [
+        "balcon",
+        "pet friendly",
+        "cochera"
+      ],
+      "proximidad": [
+        "colegios",
+        "transporte publico"
+      ]
+    },
+    "history": [
+      "Visito 3 departamentos en Miraflores en el ultimo mes.",
+      "Descarto inmuebles sin cochera por necesidad familiar."
+    ],
+    "notes": "Cliente prioriza seguridad y buena conectividad para trabajo hibrido."
+  },
+  {
+    "client_id": "client_002",
+    "name": "Carlos Mendez",
+    "objetivo": "alquilar",
+    "tipo_propiedad": "casa",
+    "ubicaciones_preferidas": [
+      "La Molina",
+      "Surco"
+    ],
+    "presupuesto_min": 1200,
+    "presupuesto_max": 1800,
+    "habitaciones_min": 3,
+    "financiacion": "pago mensual directo",
+    "plazo_decision": "30 dias",
+    "preferences": {
+      "amenidades": [
+        "jardin",
+        "2 estacionamientos",
+        "cuarto de servicio"
+      ],
+      "proximidad": [
+        "universidades",
+        "vias de acceso rapidas"
+      ]
+    },
+    "history": [
+      "Ha consultado 5 casas familiares con patio.",
+      "Solicita contratos de alquiler de 12 meses renovables."
+    ],
+    "notes": "Cliente trabaja remoto y necesita espacio para oficina en casa."
+  },
+  {
+    "client_id": "client_003",
+    "name": "Maria Lopez",
+    "objetivo": "invertir",
+    "tipo_propiedad": "local comercial",
+    "ubicaciones_preferidas": [
+      "Centro Financiero",
+      "San Borja",
+      "Jesus Maria"
+    ],
+    "presupuesto_min": 180000,
+    "presupuesto_max": 320000,
+    "habitaciones_min": 0,
+    "financiacion": "capital propio",
+    "plazo_decision": "90 dias",
+    "preferences": {
+      "amenidades": [
+        "alto flujo peatonal",
+        "frente amplio",
+        "zona segura"
+      ],
+      "proximidad": [
+        "bancos",
+        "estaciones de transporte"
+      ]
+    },
+    "history": [
+      "Inversionista con 2 propiedades comerciales activas.",
+      "Busca retorno anual minimo del 8 por ciento."
+    ],
+    "notes": "Cliente acepta remodelaciones menores si mejora rentabilidad."
+  }
+]
